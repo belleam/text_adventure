@@ -79,7 +79,7 @@ def hell_to_heaven():
 
 ## If user picks right in purgatory, it launches the heaven route
 def welcome_to_heaven():
-    print("You open the door on the left. Behind it is a figure dressed in white with a halo over his head and wings behind his back.")
+    print("You open the door on the right. Behind it is a figure dressed in white with a halo over his head and wings behind his back.")
     print("\"Welcome to heaven!\" the angel greets you. \"Let me give you a tour of our facilities.\"")
     heaven_lobby()
 
